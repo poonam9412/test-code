@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # test-code
 =======
 # cssPractice
@@ -77,3 +78,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 >>>>>>> Initial commit from Create React App
 >>>>>>> file modified
+=======
+Css Practice
+>>>>>>> Update README.md
