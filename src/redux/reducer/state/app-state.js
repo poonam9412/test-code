@@ -1,5 +1,5 @@
-import {LoanValue} from './loan-state'
+import {MenuValue} from './menu-state'
 
 export const AppState = {
-    loanData: LoanValue
+    MenuValue: MenuValue
 }
