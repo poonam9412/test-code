@@ -1,10 +1,10 @@
 import * as React from "react";
-import LoanFields  from "./components/loan-fields"
+import MenuPage  from "./components/menu-page"
 class App extends React.Component{
     render(){
         return (
             <div>
-                <LoanFields />
+                <MenuPage />
             </div>
         )
     }
